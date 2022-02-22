@@ -55,6 +55,13 @@ add some title and the router in the body
 <router-outlet></router-outlet>
 ```
 
-Components
-Interface, Clases
-Services
+## Scope:
+In this course we are going to explore the base of:
+- [Module] (https://github.com/maryitsv/angular-training/blob/main/angular-class-module.md)
+- [Components] (https://github.com/maryitsv/angular-training/blob/main/angular-class-component.md)
+- Interfaces, Classes
+- Services
+
+## More resources
+https://angular.io/tutorial
+https://coderlipi.com/angular/angular-module
