@@ -229,12 +229,12 @@ in the app component html
 Suggestions for components:
 
 Dont
-do not have huge logic in the onInit
-forget to unsuscribe
-do not use view encapsulation none if you dont need it
+ - do not have huge logic in the onInit
+ - forget to unsuscribe
+ - do not use view encapsulation none if you dont need it
 
 Do
-encapsulate in methods the logic you have and call that function in the oninit
-unsuscribe usign the onDestroy if required
-if you use view encapsulation none be aware this will modify other components, so better put inside a style
-
+ - encapsulate in methods the logic you have and call that function in the oninit
+ - unsuscribe usign the onDestroy if required
+ - if you use view encapsulation none be aware this will modify other components, so better put inside a style
+ 
