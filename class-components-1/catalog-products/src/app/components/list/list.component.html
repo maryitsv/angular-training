@@ -1,0 +1,8 @@
+<p class="box">list works!</p>
+<div *ngFor="let product of productsList">
+    <app-item-list
+        [id]="product.id"
+        [name]="product.name"
+        [available]="product.available"
+        (clicked)="itemClicked($event)"></app-item-list>
+</div>
