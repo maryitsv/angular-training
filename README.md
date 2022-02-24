@@ -55,6 +55,7 @@ add some title and the router in the body
 <router-outlet></router-outlet>
 ```
 
+
 ## Scope:
 In this course we are going to explore the base of:
 - [Module] (https://github.com/maryitsv/angular-training/blob/main/angular-class-module.md)
