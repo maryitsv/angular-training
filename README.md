@@ -60,8 +60,15 @@ add some title and the router in the body
 In this course we are going to explore the base of:
 - [Module] (https://github.com/maryitsv/angular-training/blob/main/angular-class-module.md)
 - [Components] (https://github.com/maryitsv/angular-training/blob/main/angular-class-component.md)
-- Interfaces, Classes
-- Services
+- [Interfaces-Classes] (https://github.com/maryitsv/angular-training/blob/main/angular-class-interface.md)
+- [Services] (https://github.com/maryitsv/angular-training/blob/main/angular-class-interface.md)
+
+No YET
+- Pipes
+- Directives
+- Forms
+- Content projection
+- Unit test
 
 ## More resources
 https://angular.io/tutorial

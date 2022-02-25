@@ -1,0 +1,5 @@
+<div class="box" (click)="onClicked()">
+    <div>{{product.id}}</div>
+    <div>{{product.name}}</div>
+    <div *ngIf="product.available">in stock</div>
+</div>
